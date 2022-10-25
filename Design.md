@@ -723,3 +723,11 @@ issues relating to product tone and worked on a rewrite.
 -----Main Goal -- Improving user experience and interaction with the product 
 
 
+## Name: Chukwudire Chinemerem
+
+## Description: Admin Dashboard - Home (Tablet View)
+### Observation/Changes
+I designed the tablet view of the admin dashboard
+The tablet view of the admin dashboard displays the following: a statistics section of total products and total users, analytics chart, top users section and a section for recently uploaded products.
+
+-----Main Goal -- Design tablet view of admin dashboard - home screen
